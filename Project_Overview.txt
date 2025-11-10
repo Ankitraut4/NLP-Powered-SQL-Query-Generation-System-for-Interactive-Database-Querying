@@ -1,11 +1,3 @@
-# Enhancing Chatbot-Driven SQL Query Generation for Real-Time Database Answering  
-**Course:** AIT726 – Natural Language Processing with Deep Learning  
-**Professor:** Dr. Liao  
-**University:** George Mason University  
-**Team 4 Members:** Rushikesh Ware, Saharsh Koli  
-
----
-
 > **NOTE:** The system will be re-compiled and re-run on the instructor’s computer to double-check for grading.  
 > Please clearly follow these setup and execution steps.
 
