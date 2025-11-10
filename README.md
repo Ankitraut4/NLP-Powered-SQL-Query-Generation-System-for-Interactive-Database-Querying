@@ -1,7 +1,6 @@
 # 🧠 NLP Powered SQL Query Generation System for Interactive Database Querying
 
-A **Gradio-powered chatbot** that transforms natural language questions into SQL queries — enabling users to explore and analyze their uploaded CSV data interactively.
-
+Developed an NLP-to-SQL chatbot leveraging BART for text-to-query translation, integrated with SQLite, and deployed via an interactive Gradio interface.
 ---
 
 ## 📄 Project Summary
